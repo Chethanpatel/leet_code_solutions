@@ -36,6 +36,9 @@ I'm **Chethan Patel**, your guide on this journey to achieving dream placements 
 
 ## Let's Elevate Your Software Career!
 
-Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights. [[Subscribe](https://img.shields.io/youtube/channel/subscribers/UCpOW41l4V-7CEFTaMyMYtQA?label=Subscribe&style=social)](https://www.youtube.com/@Elevate.24x7)
+Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights.
+
+[![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCpOW41l4V-7CEFTaMyMYtQA?label=Subscribe&style=social)](https://www.youtube.com/@Elevate.24x7)
 
 Happy Coding! 🚀✨
+
