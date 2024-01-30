@@ -21,13 +21,18 @@ I'm **Chethan Patel**, your guide on this journey to achieving dream placements 
 
 ![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
 
-### Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/chethanpatelpn)
-- [YouTube](https://www.youtube.com/@Elevate.24x7)
-- [Instagram](https://instagram.com/chethaness)
-- [Medium](https://chethanpatel.medium.com)
-- [Portfolio Website](https://chethanpatelpn.netlify.app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/chethanpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chethanpatel" height="30" width="40" /></a>
+<a href="https://twitter.com/chethan__patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chethan__patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chethanpatelpn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chethanpatelpn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19329911/chethan-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19329911/chethan-patel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suprabha_putra_chethana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suprabha_putra_chethana/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chethanpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/chethanpatel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chethanpatelpn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chethanpatelpn" height="30" width="40" /></a>
+<a href="https://leetcode.com/chethanpatel305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chethanpatel305/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chethanpatel17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chethanpatel17" height="30" width="40" /></a>
+</p>
 
 ## Let's Elevate Your Software Career!
 
