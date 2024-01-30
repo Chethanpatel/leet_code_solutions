@@ -2,7 +2,7 @@
 
 ![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
 
-(https://www.youtube.com/@Elevate.24x7)
+[YouTube channel](https://www.youtube.com/@Elevate.24x7). [[Subscribe](https://img.shields.io/youtube/channel/subscribers/UCpOW41l4V-7CEFTaMyMYtQA?label=Subscribe&style=social)]
 
 🚀 **Chethan Patel Codes** is your hub for mastering software development! Whether you're a pre-final or final year engineering student, or someone looking to switch careers, this repository is your go-to source for LeetCode solutions, insights, and practical problem-solving using Data Structures and Algorithms (DSA).
 
@@ -35,6 +35,6 @@ The problems presented here are curated after January 30, 2024. Feel free to exp
 
 ## Let's Elevate Your Software Career!
 
-Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights. [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCpOW41l4V-7CEFTaMyMYtQA?label=Subscribe&style=social)](https://www.youtube.com/@Elevate.24x7)
+Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights. [[Subscribe](https://img.shields.io/youtube/channel/subscribers/UCpOW41l4V-7CEFTaMyMYtQA?label=Subscribe&style=social)](https://www.youtube.com/@Elevate.24x7)
 
 Happy Coding! 🚀✨
