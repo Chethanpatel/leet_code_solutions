@@ -1,23 +1,6 @@
 # Welcome to Chethan Patel Codes Repository 🚀
 
-
 🚀 **Chethan Patel Codes** is your hub for mastering software development! Whether you're a pre-final or final year engineering student, or someone looking to switch careers, this repository is your go-to source for LeetCode solutions, insights, and practical problem-solving using Data Structures and Algorithms (DSA).
-
-## About Me
-
-I'm **Chethan Patel**, your guide on this journey to achieving dream placements in the software industry. Join me on my YouTube channel, [Chethan Patel Codes](https://www.youtube.com/@Elevate.24x7), as I dive deep into solving LeetCode problems, conduct mock interviews, share inspiring placement success stories, and provide valuable insights into the dynamic software job market.
-
-![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
-
-
-### Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/chethanpatelpn)
-- [YouTube](https://www.youtube.com/@Elevate.24x7)
-- [Instagram](https://instagram.com/chethaness)
-- [Medium](https://chethanpatel.medium.com)
-- [Portfolio Website](https://chethanpatelpn.netlify.app)
-
 
 ## Repository Overview
 
@@ -31,6 +14,20 @@ This repository is a collection of LeetCode solutions crafted with precision and
 ## Repository Structure
 
 The problems presented here are curated after January 30, 2024. Feel free to explore, learn, and contribute. If you have any questions or suggestions, don't hesitate to reach out!
+
+## About Me
+
+I'm **Chethan Patel**, your guide on this journey to achieving dream placements in the software industry. Join me on my YouTube channel, [Chethan Patel Codes](https://www.youtube.com/@Elevate.24x7), as I dive deep into solving LeetCode problems, conduct mock interviews, share inspiring placement success stories, and provide valuable insights into the dynamic software job market.
+
+![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
+
+### Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/chethanpatelpn)
+- [YouTube](https://www.youtube.com/@Elevate.24x7)
+- [Instagram](https://instagram.com/chethaness)
+- [Medium](https://chethanpatel.medium.com)
+- [Portfolio Website](https://chethanpatelpn.netlify.app)
 
 ## Let's Elevate Your Software Career!
 
