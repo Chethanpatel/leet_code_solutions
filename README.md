@@ -1,6 +1,8 @@
 # Welcome to Chethan Patel Codes Repository 🚀
 
-[![Chethan Patel Codes]([https://ugc.production.linktr.ee/a8b70aaa-c340-4d45-8ee6-4f2d5c5d9f94_FINALIZED-ELEVATE-24x7--10-.png?io=true&size=thumbnail-stack-v1_0)](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)](https://www.youtube.com/@Elevate.24x7)
+![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
+
+(https://www.youtube.com/@Elevate.24x7)
 
 🚀 **Chethan Patel Codes** is your hub for mastering software development! Whether you're a pre-final or final year engineering student, or someone looking to switch careers, this repository is your go-to source for LeetCode solutions, insights, and practical problem-solving using Data Structures and Algorithms (DSA).
 
