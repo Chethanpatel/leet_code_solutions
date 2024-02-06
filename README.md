@@ -17,7 +17,7 @@ The problems presented here are curated after January 30, 2024. Feel free to exp
 
 ## About Me
 
-I'm **Chethan Patel**, your guide on this journey to achieving dream placements in the software industry. Join me on my YouTube channel, [Chethan Patel Codes](https://www.youtube.com/@Elevate.24x7), as I dive deep into solving LeetCode problems, conduct mock interviews, share inspiring placement success stories, and provide valuable insights into the dynamic software job market.
+I'm **Chethan Patel**, your guide on this journey to achieving dream placements in the software industry. Join me on my YouTube channel, [Elevate 24x7](https://www.youtube.com/@Elevate.24x7), as I dive deep into solving LeetCode problems, conduct mock interviews, share inspiring placement success stories, and provide valuable insights into the dynamic software job market.
 
 ![Background Image](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1712188800&v=beta&t=pnal-x2_ATkjK6nGuEtmTffe73ThwoE1O2bUMJpH1eQ)
 
