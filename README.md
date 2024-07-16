@@ -38,9 +38,9 @@ I'm **Chethan Patel**, your guide on this journey to achieving dream placements 
 
 Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights.
 
-
-  <style>
-        .libutton {
+<!-- Inline CSS -->
+<style>
+  .libutton {
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -55,12 +55,11 @@ Join me on this exciting journey towards achieving your software career dreams. 
           background-color: #0A66C2;
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
- </style>
-      
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chethanpatelpn" target="_blank">Follow on LinkedIn</a>
-      
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chethanpatelpn" target="_blank">Follow on LinkedIn</a>
+</style>
 
+<!-- Example of using the class in a link -->
+<a href="https://www.linkedin.com/in/chethanpatel" class="libutton">Connect with me on LinkedIn</a>
+      
 [![Subscribe](https://img.shields.io/badge/Subscribe-Your_Subscriber_Count-orange?style=social)](https://www.youtube.com/@Elevate.24x7)
 
 Happy Coding! 🚀✨
