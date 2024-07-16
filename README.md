@@ -38,25 +38,6 @@ I'm **Chethan Patel**, your guide on this journey to achieving dream placements 
 
 Join me on this exciting journey towards achieving your software career dreams. Subscribe to my [YouTube channel](https://www.youtube.com/@Elevate.24x7) for regular updates, tutorials, and insights.
 
-<!-- Inline CSS -->
-<style>
-  .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-</style>
-
 <!-- Example of using the class in a link -->
 <a href="https://www.linkedin.com/in/chethanpatel" class="libutton">Connect with me on LinkedIn</a>
       
