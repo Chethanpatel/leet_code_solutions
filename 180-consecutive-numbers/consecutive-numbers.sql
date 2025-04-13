@@ -7,3 +7,4 @@ JOIN Logs l3 ON l1.id = l3.id - 2
 where l1.num = l2.num and l2.num = l3.num
 
 
+
