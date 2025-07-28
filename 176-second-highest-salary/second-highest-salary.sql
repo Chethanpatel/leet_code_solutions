@@ -18,6 +18,19 @@
 -- end as SecondHighestSalary 
 -- from shs;
 
-select max(salary) as SecondHighestSalary 
-from employee
-where salary < (select max(salary) from employee);
+
+WITH distinct_salary AS (
+    SELECT DISTINCT salary FROM employee
+    ORDER BY salary DESC
+)
+SELECT
+    (
+        SELECT salary
+        FROM distinct_salary
+        LIMIT 1 OFFSET 1
+    ) AS SecondHighestSalary;
+
+
+-- select max(salary) as SecondHighestSalary 
+-- from employee
+-- where salary < (select max(salary) from employee);
