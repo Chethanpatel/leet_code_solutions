@@ -10,5 +10,5 @@ class Solution:
         return maxSum
 
 ## The idea is we should make sure that current sum is not negative, as soon as it is negative, set it to zero. at the same time,
-## upadte the maximum sum maxumm of surrent sum and already existing maxmum sum. Snippet 
-# curSum += num tells upadte the cursum 
+## upadte the maximum sum as maximum of current sum and already existing maxmum sum. Snippet 
+# curSum += num tells update the cursum 
