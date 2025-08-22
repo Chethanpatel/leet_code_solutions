@@ -1,14 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        r = list(ransomNote)
-        m  = list(magazine)
 
-        for rchar in r:
-            if rchar in m:
-                m.remove(rchar)
-            else:
-                return 1==2
+        if len(magazine) < len(ransomNote):
+            return False
         
-        return True
-
+        for c in set(ransomNote):
+            if magazine.count(c) < ransomNote.count(c):
+                return False
+        return True        
         
